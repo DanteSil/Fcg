@@ -177,4 +177,4 @@ O módulo de usuário (e-mail e senha) foi modelado com TDD em `tests/Fcg.Domain
 
 ## Documentação DDD
 
-- Event Storming e diagramas: [`docs/ddd/`](docs/ddd/)
+- Context map e agregados: [`docs/ddd/CONTEXT_AND_AGGREGATES.md`](docs/ddd/CONTEXT_AND_AGGREGATES.md)
